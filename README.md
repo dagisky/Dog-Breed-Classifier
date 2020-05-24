@@ -53,7 +53,7 @@ Model test of human images
 ![Front Page](images/git_imgs/test_model1.PNG) 
 
 Model Comparision
-![Model Comparision](images/git_imgs/model_comparision.PNG) 
+![Model Comparision](images/git_imgs/model_comparision.png) 
 
 The details of the results are discussed [here](https://medium.com/@dagmsky/dog-breed-classifier-3e9afbbb1864)
 ### Licensing and Acknowledgements
