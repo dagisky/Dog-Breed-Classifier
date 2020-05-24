@@ -42,6 +42,7 @@ To run the script you need to install the requred libraries and run jupyter note
 cd <Project Directory>
 jupyter notebook
 ```
+### 4. Results
 
-### 4. Licensing and Acknowledgements
+### Licensing and Acknowledgements
 This project is the Udacity Data Scientist Nanodegree Capstone Project. The Udacuty licence is inculded **LICENSE.txt** 
