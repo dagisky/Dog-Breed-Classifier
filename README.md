@@ -24,7 +24,7 @@ The project marks the first steps towards developing an algorithm that could be 
 ### 2. File Descriptions
 
 
-There are 5 directories. **bottlenect_features** directory should contain model features of pre-trained architectures used in the dog_app. The bottleneck_features will be downloaded and stored when running the download script in dog_app.ipynb
+There are 4 directories. **bottlenect_features** directory should contain model features of pre-trained architectures used in the dog_app. The bottleneck_features will be downloaded and stored when running the download script in dog_app.ipynb
 
 The **dog_app.ipynb** script is the main script determining the breed and class of the given image. it also contains illustrations of the process used. 
 
@@ -32,7 +32,7 @@ The **images folder** should contain the dataset images. It should be divided in
 
 The **saved_models** folder should contain the files for the pre-trained ResNet50, VGG16, and Inception models.
 
-**Requirements** directory contains the docker setup yml script and the **haarcascades** directory contains an implementation of Haar feature-based cascade classifiers to detect human faces in images.
+The **haarcascades** directory contains an implementation of Haar feature-based cascade classifiers to detect human faces in images.
 
 
 ### 3. Implementation
